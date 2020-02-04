@@ -9,20 +9,20 @@
   </header>
     <img src="" usemap="#avatar"/> 
       <map name="avatar">
-        <area shape="circle" />
-        <area shape="circle" />
-        <area shape="circle" />
-        <area shape="circle" />
-        <area shape="circle" />
-        <area shape="circle" />
-        <area shape="circle" />
-        <area shape="circle" />
-        <area shape="circle" />
-        <area shape="circle" />
+        <area shape="circle" /> 	<!-- Gabriel -->
+        <area shape="circle" /> 	<!-- Vladimir -->
+        <area shape="circle" /> 	<!-- Sébastien -->
+        <area shape="circle" />		<!-- Marie -->
+        <area shape="circle" /> 	<!-- Eve -->
+        <area shape="circle" /> 	<!-- Maxance -->
+        <area shape="circle" /> 	<!-- Kévin -->
+        <area shape="circle" /> 	<!-- Gab -->
+        <area shape="circle" /> 	<!-- Jonathan -->
+        <area shape="circle" /> 	<!-- Logan -->
       </map>
  <hr/>
  <footer>
- <img src="" />
+ <a href=""><img src="" /></a>
  </footer>
  
  
