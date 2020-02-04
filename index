@@ -1,1 +1,30 @@
-
+<!DOCTYPE html>
+<html lang="fr">
+<html>
+	<head>
+		<title>Page Présentation Les Légendaires </title>
+	</head>
+<body>
+  <header><h1>LES LEGENDAIRES</h1>
+  </header>
+    <img src="" usemap="#avatar"/> 
+      <map name="avatar">
+        <area shape="circle" />
+        <area shape="circle" />
+        <area shape="circle" />
+        <area shape="circle" />
+        <area shape="circle" />
+        <area shape="circle" />
+        <area shape="circle" />
+        <area shape="circle" />
+        <area shape="circle" />
+        <area shape="circle" />
+      </map>
+ <hr/>
+ <footer>
+ <img src="" />
+ </footer>
+ 
+ 
+</body>
+</html>
